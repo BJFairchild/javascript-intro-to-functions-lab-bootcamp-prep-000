@@ -24,4 +24,5 @@ function sayHiToGrandma(string) {
     return yes;
   } else if `${string}` === "I love you, Grandma." {
     return love;
+  }
 }
